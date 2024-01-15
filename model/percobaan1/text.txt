@@ -1,0 +1,2 @@
+48/48 [==============================] - 7s 137ms/step - loss: 1.6698 - accuracy: 0.8333 - precision: 0.5000 - recall: 0.0641 - auc: 0.6720 - f1_score: 0.1100
+14/14 [==============================] - 1s 75ms/step - loss: 1.8293 - accuracy: 0.8254 - precision: 0.4180 - recall: 0.1215 - auc: 0.6423 - f1_score: 0.1849
